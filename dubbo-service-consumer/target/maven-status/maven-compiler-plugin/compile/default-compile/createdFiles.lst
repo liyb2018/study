@@ -1,0 +1,6 @@
+com/jackliang/bddemo/consumer/ConsumerApplication.class
+com/jackliang/bddemo/consumer/controller/LoginController.class
+com/jackliang/bddemo/consumer/config/DubboConfig.class
+com/jackliang/bddemo/consumer/service/LoginService.class
+com/jackliang/bddemo/consumer/CatLogbackAppender.class
+com/jackliang/bddemo/consumer/CatFilterConfigure.class

@@ -1,0 +1,5 @@
+com/jackliang/bddemo/provider/mapper/UserMapper.class
+com/jackliang/bddemo/provider/service/UserServiceImpl.class
+com/jackliang/bddemo/provider/domain/User.class
+com/jackliang/bddemo/provider/config/DubboConfig.class
+com/jackliang/bddemo/provider/ProviderApplication.class
